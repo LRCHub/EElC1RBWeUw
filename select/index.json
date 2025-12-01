@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "暗夜の心中立て",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T14:08:48.466658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "暗夜の心中立て",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/01_暗夜の心中立て_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "暗夜の心中立て",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_暗夜の心中立て_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "暗夜の心中立て",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/03_暗夜の心中立て_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "暗夜の心中立て",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/04_暗夜の心中立て_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "暗夜の心中立て",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_暗夜の心中立て_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暗夜の心中立て",
+      "artist": "石川 さゆり",
+      "has_synced": false,
+      "path": "select/pl_01_暗夜の心中立て_石川_さゆり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "暗夜の心中立て",
+      "artist": "石川 さゆり",
+      "has_synced": false,
+      "path": "select/pl_02_暗夜の心中立て_石川_さゆり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "暗夜の心中立て",
+      "artist": "石川 さゆり",
+      "has_synced": false,
+      "path": "select/pl_03_暗夜の心中立て_石川_さゆり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "暗夜の心中立て",
+      "artist": "石川 さゆり",
+      "has_synced": false,
+      "path": "select/pl_04_暗夜の心中立て_石川_さゆり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "暗夜の心中立て",
+      "artist": "石川 さゆり",
+      "has_synced": false,
+      "path": "select/pl_05_暗夜の心中立て_石川_さゆり.txt"
+    }
+  ]
+}
